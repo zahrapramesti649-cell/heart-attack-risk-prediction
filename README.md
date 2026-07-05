@@ -49,7 +49,7 @@ Dataset berisi data kesehatan pasien seperti:
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 📌 Distribusi Risiko Penyakit Jantung
-![EDA Distribution](images/distribution.png)
+![EDA Distribution](images/images/distribusi_of_heart_attack.png.png)
 
 ### 📌 Korelasi Antar Variabel
 ![EDA Correlation](images/correlation.png)
