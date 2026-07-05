@@ -52,7 +52,7 @@ Dataset berisi data kesehatan pasien seperti:
 ![EDA Distribution](images/distribusi_of_heart_attack.png.png)
 
 ### 📌 Korelasi Antar Variabel
-![EDA Correlation](images/correlation.png)
+![EDA Correlation](images/correlation_heatmap.png.png)
 
 ### 📌 Analisis Usia vs Risiko
 ![EDA Age vs Risk](images/age_risk.png)
