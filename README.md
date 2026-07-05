@@ -74,9 +74,6 @@ Model dievaluasi menggunakan:
 - Recall
 - F1-Score
 
-### 📌 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
 ---
 
 ## 💡 Key Insights
