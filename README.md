@@ -55,7 +55,7 @@ Dataset berisi data kesehatan pasien seperti:
 ![EDA Correlation](images/correlation_heatmap.png.png)
 
 ### 📌 Analisis Usia vs Risiko
-![EDA Age vs Risk](images/age_risk.png)
+![EDA Age vs Risk](images/age_vs_heart_attack.png.png)
 
 ---
 
